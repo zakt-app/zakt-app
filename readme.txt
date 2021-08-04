@@ -1,16 +1,4 @@
-==================================================================================================
-
-DESCRIPTION:
-
-DAZZLE is a modern and beautiful well crafted responsive template created for showcasing 
-your software and mobile application. Built with clean and organized css3 and html5 code, 
-this template is very easy to customize. It's mobile ready and retina/hi-dpi ready which 
-means it will look great on any devices from mobile to desktop, sharp and crisp on any screen 
-resolutions and displays. This stylish template is perfect for showcasing your software and mobile 
-application.
-
-==================================================================================================
-
+Zakt App landing page. Customized from Dazzle Styleshout theme
 
 USING THE MAILCHIMP FORM:
 
