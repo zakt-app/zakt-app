@@ -2407,12 +2407,20 @@ footer ul a:visited {
 /*# sourceMappingURL=main.css.map */
 
 .legal-container {
-   margin-top: 80px;
-   display: flex;
-   justify-content: center;
+   /* display: block; */
+   margin: 0 auto;
+   text-align: left;
+   margin-top: 100px;
+   margin-bottom: 200px;
 }
 
 .legal-container p {
+   text-align: left;
+   color: white;
+}
+
+.legal-container h2,
+h4 {
    text-align: left;
    color: white;
 }
