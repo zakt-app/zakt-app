@@ -2117,12 +2117,12 @@ footer {
 
 footer a,
 footer a:visited {
-   color: #00fdd8;
+   color: #141515;
 }
 
 footer a:hover,
 footer a:focus {
-   color: white;
+   color: #141515;
 }
 
 footer h4 {
